@@ -14,6 +14,7 @@ marginalized identities we need to do a better job of including that we want to 
 - race and ethnicity
 - people with dependents (children, elderly)
 - dietary restrictions
+- national origin and documentation status
 
 stuff you need to think about with events:
 - meals
