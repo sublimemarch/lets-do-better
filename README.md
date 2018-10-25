@@ -27,9 +27,12 @@ A guide to radical inclusion in both physical and digital spaces in the tech ind
 - trigger/content warnings
 - codes of conduct
 - consent, respect
+- differing tolerence for socialization and stimulation
 
 # Ways we can do better:
 1. When creating a group or planning an event, consider carefully how you name it. Instead of "Women in Tech", consider something that includes all marginalized genders. 
+
+2. Always provide [pronoun buttons or stickers](https://dev.to/sublimemarch/an-organizers-guide-to-pronoun-buttons-afb) for attendees. Consider the ratio of pronouns to get, and make sure you have blanks and extras. This article is also available in [print ready zine form](https://sublimemarch.itch.io/an-organizers-guide-to-using-pronoun-buttons) so you can easily share it with all of your co-organizers!
 
 # Learn more
 - https://www.confa11y.com/
