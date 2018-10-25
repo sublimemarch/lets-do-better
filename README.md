@@ -39,3 +39,5 @@ A guide to radical inclusion in both physical and digital spaces in the tech ind
 - https://www.alterconf.com/code-of-conduct
 
 # Contribute to this guide! Just open a pull request and add your idea.
+
+For more information, check out our [contributor's guide](contributing.md). By contributing to this repo, you agree to abide by the [Code of Conduct](code_of_conduct.md).
